@@ -26,4 +26,4 @@ Dynamo Player
 Select Windows and Doors Then Select a Trim needed to be Cloned
 
 ![wef](https://github.com/user-attachments/assets/b70372f2-9747-46fb-8415-de1809f960f7)
-run the Script
+Run the Script
