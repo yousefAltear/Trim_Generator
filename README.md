@@ -23,6 +23,7 @@ Dynamo Player
 
 ### Revit Demo
 ![sdfvsd](https://github.com/user-attachments/assets/505680fe-8643-4d28-b347-71a55b297f34)
-
+Select Windows and Doors Then Select a Trim needed to be Cloned
 
 ![wef](https://github.com/user-attachments/assets/b70372f2-9747-46fb-8415-de1809f960f7)
+run the Script
