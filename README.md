@@ -7,7 +7,7 @@
 The script automates the generation of wooden trims by using the dimensions of windows or doors, significantly reducing the time required compared to manual methods. It ensures precise fitting around the selected elements, enhancing workflow efficiency and maintaining consistency in trim design.
 </p>
 
-![wer](https://github.com/user-attachments/assets/884ed4f4-5e3d-458f-aa91-e7b0df2820db)
+![Trim Generator  Single V 1 4_2024-10-08_06-30-03](https://github.com/user-attachments/assets/af327600-cd1b-41ea-9784-05b0e001933b)
 Trim Generator For Single Windows And Doors 
 
 ![wer](https://github.com/user-attachments/assets/f7262819-6ae4-4a49-925d-546ddc616fa6)
